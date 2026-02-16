@@ -57,7 +57,7 @@
 
 - Additional contact methods and social media buttons
 
-The website will use branding with a water.lake color palette (blues, teals, sunny yellows), clean fonts, and professional pictures. All pages will be linked by a main navigation menu and styled with a single CSS file.
+> The website will use branding with a water.lake color palette (blues, teals, sunny yellows), clean fonts, and professional pictures. All pages will be linked by a main navigation menu and styled with a single CSS file.
 
 ### Who are the key team members?
 
@@ -70,7 +70,7 @@ The website will use branding with a water.lake color palette (blues, teals, sun
 
 # Desired Results
 
-### What specific outcomes shou;d we achieve to be successful?
+### What specific outcomes should we achieve to be successful?
 
 ### **Measurable Success:**
 
@@ -119,4 +119,12 @@ The website will use branding with a water.lake color palette (blues, teals, sun
 - **Flexibility**: Most flexibility - can use free hosting platforms initially (GitHub Pages)
 - **Impact**: While a larger budget could speed up developments or add better features, a good free website is more than capable
 
-**Rationale**: Quality is #1 because an unprofessional website could hurt the business by making it look fake or unsafe, especially for an activity with inherent risks like boating
+**Rationale**:
+> Quality is #1 because an unprofessional website could hurt the business by making it look fake or unsafe, especially for an activity with inherent risks like boating
+Float ATX's website project will deliver a professional, mobile-responsive two-page website that establishes the business's online presence and enables potential customers to learn about Sea-Doo Switch Cruise rentals on Lake Travis. The project prioritizes quality over speed and budget, ensuring the website builds trust and credibility with potential customers. With a March 1, 2026 deadline, clear stakeholder roles, and well-defined success criteria, this project will provide Float ATX with the digital foundation needed to launch a successful boat rental business for the summer 2026 season.
+
+**Next Steps**:
+1. Gather all content boat specs, pricing, and photos
+2. Begin HTML structure development
+3. Create CSS styling page
+
