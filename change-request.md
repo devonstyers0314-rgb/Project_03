@@ -25,5 +25,17 @@
 
 ## Quality
 
+>Positive impact with minor risk
 
+>Positive impacts
+- Increases overall quality of the website
+- Shows attention to detail and abilit to take feedback
+
+>Quality considerations
+- Make sure map loads quickly and correctly
+- CHeck map sizing across all devices
+
+## Budget
+> Little to no impact
+- Shouldn't cost anything but time
 
