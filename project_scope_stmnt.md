@@ -99,3 +99,24 @@ The website will use branding with a water.lake color palette (blues, teals, sun
    - Know how much it costs
    - Contact the business to book
    - Find the business location
+
+## Priorities
+
+### How to prioritizew (1 = most important)
+
+**Time**: 2
+- **Constraint**: Must launch before peak summer rental season (by June 1, 2026)
+- **Flexibility**: Some flexibility exists
+- **Impact**: Launching late means missing early summer bookings
+
+**Quality**: 1 **MOST IMPORTANT**
+- **Constraint**: Website must look professional and trustworthy
+- **Flexibility**: No flexibility - a poorly designed or buggy website will damage brand credibility 
+- **Impact**: This is a customer-facing business website representing a premium rental service. Quality directly correlates with customer trust and booking possivility
+
+**Budget**: 3
+- **Constraint**: Self-developed website with $0 budget
+- **Flexibility**: Most flexibility - can use free hosting platforms initially (GitHub Pages)
+- **Impact**: While a larger budget could speed up developments or add better features, a good free website is more than capable
+
+**Rationale**: Quality is #1 because an unprofessional website could hurt the business by making it look fake or unsafe, especially for an activity with inherent risks like boating
