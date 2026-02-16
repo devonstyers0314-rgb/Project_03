@@ -39,3 +39,28 @@
 - Safety highlights and what's included with rentals
 
 - Contact information and location details
+
+### **About Page**
+- Company story and mission
+
+- Detailed information about boat
+
+- Captain/owner background and qualifications
+
+- Safety protocols and lake laws
+
+- Frequently Asked Questions
+
+- Booking process and what to expect
+
+- Testimonials section
+
+- Additional contact methods and social media buttons
+
+The website will use branding with a water.lake color palette (blues, teals, sunny yellows), clean fonts, and professional pictures. All pages will be linked by a main navigation menu and styled with a single CSS file.
+
+### Who are the key team members?
+
+**Project Roles:**
+- **Project Manager/Developer**: Devon - Responsible for all website development, content creation, project timeline management, and stakeholder coordinations
+
