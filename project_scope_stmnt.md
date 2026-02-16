@@ -61,6 +61,9 @@ The website will use branding with a water.lake color palette (blues, teals, sun
 
 ### Who are the key team members?
 
-**Project Roles:**
+### **Project Roles:**
 - **Project Manager/Developer**: Devon - Responsible for all website development, content creation, project timeline management, and stakeholder coordinations
-
+- **Content Consultant**: Float ATX Business Owner
+- **Visual Assets Provider**: Business Owner/Photographer supplies photos of the Sea-Doo Switch Cruise and Lake Travis 
+- **Legal Reviewer**: External legal advisor - Reviews all legal language and disclaimers
+- **Test Users**: 3-5 friends orfamily members to pSrovide user feedback before publishing publicly
