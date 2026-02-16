@@ -18,3 +18,24 @@
 - **Business owner**: Float ATX needs to approve all content, pricing info, and brand representation before going public with the site. 
 - **Target Customers**: Tourists and Austin locals that want to enjoy a day on the water, without the long term commitment of buying a boat.
 - **Legal advisor**: A full liability waiver and correct insurance/legal disclaimers should be reviewed by professionals.
+
+## Description
+
+### How would you describe this project?
+
+> Float ATX will be a modern themed simple two page website that showcases our Sea-Doo Switch Cruise rental service on Lake Travis. The website will feature:
+
+### **Homepage:**
+- Hero section with lake and boat imagery
+
+- Quick overview of the Sea-Doo Switch Cruise and why it's perfect for Lake Travis
+
+- Key selling points (capacity, features, ease of use)
+
+- Pricing and rental duration options
+
+- Clear call to action for booking 
+
+- Safety highlights and what's included with rentals
+
+- Contact information and location details
